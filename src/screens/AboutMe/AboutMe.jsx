@@ -9,7 +9,7 @@ function AboutMe() {
     <div>
         <h1>AboutMe</h1>
         <p>
-            "I've chosen to move to development side of IT into being more directly involved with technology.
+        "I've chosen to move to development side of IT into being more directly involved with technology.
         </p>
     </div>
     </div>
