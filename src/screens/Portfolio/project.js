@@ -1,5 +1,6 @@
 import weather from "./svg/weather-app.png"
 import concertHunt from "./svg/concert hunt.png"
+import compassMVC from "./svg/CompassMVC.png"
 export const project = [
     {
       title: "Weather app",
@@ -12,5 +13,11 @@ export const project = [
         description: "Finding concerts for your favorite artists coming soon!",
         image :  concertHunt,
         url: "https://tomaspz.github.io/concerthunt/",
+      },
+      {
+        title: "CompassMVC app",
+        description: "Personal Customer bookkeeping for travel agents",
+        image :  compassMVC,
+        url: "https://github.com/SODIZDAROGLU/CompassMVC1/",
       },
 ]
