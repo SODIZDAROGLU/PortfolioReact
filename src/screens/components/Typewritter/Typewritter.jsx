@@ -52,7 +52,7 @@ function Typewritter({ data = [], TypeSpeed = 100, MsgDelay = 2000}) {
     }
 
     StartTyping();
-
+ // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
