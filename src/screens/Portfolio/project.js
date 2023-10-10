@@ -23,7 +23,7 @@ export const project = [
       },
       {
         title: "Blog app",
-        description: "ASP.NET MVC Website with Entity Framework",
+        description: "ASP.NET MVC Website with Entity Framework ",
         image :  blog,
         url: "https://github.com/SODIZDAROGLU/Bloggie",
       },
