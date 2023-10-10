@@ -1,6 +1,7 @@
 import weather from "./svg/weather-app.png"
 import concertHunt from "./svg/concert hunt.png"
 import compassMVC from "./svg/CompassMVC.png"
+import blog from "./svg/Blog.PNG"
 export const project = [
     {
       title: "Weather app",
@@ -19,5 +20,11 @@ export const project = [
         description: "Personal Customer bookkeeping for travel agents",
         image :  compassMVC,
         url: "https://github.com/SODIZDAROGLU/CompassMVC1/",
+      },
+      {
+        title: "Blog app",
+        description: "ASP.NET MVC Website with Entity Framework",
+        image :  blog,
+        url: "https://github.com/SODIZDAROGLU/Bloggie",
       },
 ]
