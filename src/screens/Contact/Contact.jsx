@@ -1,5 +1,5 @@
 import "./Contact.css";
-import resume from "./img/sod1.pdf"
+import resume from "./img/SOD.pdf"
 
 function Contact() {
   return (
@@ -8,7 +8,7 @@ function Contact() {
       <p>Marieatta, GA</p>
       <p>+1 (404) 429-9328</p>
       <p>dizdaroglu105@gmail.com</p>
-      <a href={resume} download="sod1.pdf">
+      <a href={resume} download="SOD.pdf">
               <button className="btn highlighted-btn">Get Resume</button>
             </a>
     </div>
