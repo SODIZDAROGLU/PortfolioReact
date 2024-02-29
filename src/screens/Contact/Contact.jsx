@@ -8,7 +8,7 @@ function Contact() {
       <p>Marieatta, GA</p>
       <p>+1 (404) 429-9328</p>
       <p>dizdaroglu105@gmail.com</p>
-      <a href={resume} download="SOD.pdf">
+      <a href={resume} download="SOD1.pdf">
               <button className="btn highlighted-btn">Get Resume</button>
             </a>
     </div>
