@@ -5,10 +5,10 @@ function Contact() {
   return (
     <div id="contact" className="contact-container">
       <p>SUKRU OGUZ DIZDAROGLU</p>
-      <p>Marieatta, GA</p>
+      <p>Marietta, GA</p>
       <p>+1 (404) 429-9328</p>
       <p>dizdaroglu105@gmail.com</p>
-      <a href={resume} download="SOD 5-27-2026.pdf">
+      <a href={resume} download="Oz_Dizdaroglu_Resume_v2.pdf">
               <button className="btn highlighted-btn">Get Resume</button>
             </a>
     </div>
